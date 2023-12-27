@@ -17,6 +17,8 @@ Monsters/Monster_dulsylvan diamonds=0
 Monsters/Monster_banno diamonds=0
 Monsters/Monster_stoopa diamonds=0
 Monsters/Monster_maulch coins=0
+Monsters/Monster_percFrog diamonds=0
+
 -
 monster_secret:
 Monsters/Monster_percFrog
