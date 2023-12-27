@@ -1,0 +1,9 @@
+TLLPS by YourLocalMoon
+https://discord.gg/FGGx7NNAVP
+
+<Title>str_credits_main
+Raw Zebra and his team
+
+<Title>str_credits_thanks
+msm.fan for fixing the Shop
+riotlove for explaining that i cant decompile the game to unity project

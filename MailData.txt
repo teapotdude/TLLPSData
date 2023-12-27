@@ -1,0 +1,3 @@
+ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
+
+intro3;everyone;Surprise!;Free resources, yeah!;icon@gift;diamonds@10000;foodB@5000;coins@100000000;Vortex@100;Relic@500
