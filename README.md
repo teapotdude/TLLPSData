@@ -14,7 +14,7 @@ TLLPS is protected by Apache License 2.0, im just putting the rules in the readm
 - [dnSpy](https://github.com/dnSpy/dnSpy)
 
 ----------
-# Tutorial
+## Tutorial
 
 1. extract the zip file with the TLL
 2. open the directory using any file manager
@@ -24,3 +24,12 @@ TLLPS is protected by Apache License 2.0, im just putting the rules in the readm
 6. replace all github links with yours
 7. go to file > save module and save it
 8. close dnSpy, and run TLL
+
+----------
+# FAQ
+
+### How can i help?
+you cant. just kidding, you can just do a "pull request" and i'll see if its good or not.
+
+### Can you help me with my private server?
+nope. i make mine, you make yours.
